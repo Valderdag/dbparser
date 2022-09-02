@@ -1,0 +1,20 @@
+{
+    "name": "valder/driverdb",
+    "description": "Driver db parsing",
+    "type": "project",
+    "license": "All right protected very angry Dog",
+    "autoload": {
+        "psr-4": {
+            "Valder\\Driverdb\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kubanskiy"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "gabordemooij/redbean": "^5.7"
+    }
+}

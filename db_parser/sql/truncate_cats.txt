@@ -1,0 +1,7 @@
+TRUNCATE TABLE `oc_category`;
+TRUNCATE TABLE `oc_category_description`;
+TRUNCATE TABLE `oc_category_filter`;
+TRUNCATE TABLE `oc_category_path`;
+TRUNCATE TABLE `oc_category_to_layout`;
+TRUNCATE TABLE `oc_category_to_store`;
+DELETE FROM oc_seo_url WHERE query LIKE 'category_id=%';
