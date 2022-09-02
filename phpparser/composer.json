@@ -1,0 +1,27 @@
+{
+  "name": "valder/parser",
+  "description": "Custom Parser",
+  "license": "GNU GPL",
+  "authors": [
+    {
+      "name": "Vladimir",
+      "email": "kubanskiy80@bk.ru"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "imangazaliev/didom": "dev-master",
+    "guzzlehttp/guzzle": "7.4.x-dev",
+    "gabordemooij/redbean": "dev-master",
+    "kevinrob/guzzle-cache-middleware": "dev-master",
+    "league/flysystem": "3.x-dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/"
+    },
+    "files": [
+      "helpers.php"
+    ]
+  }
+}

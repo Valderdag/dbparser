@@ -1,0 +1,19 @@
+'authority' => 'domain.com',
+'method' => 'GET'
+'path' => '/page/'
+'scheme' => 'https',
+'accept' => ['text/html','application/xhtml+xml','application/xml','q=0.9','image/avif','image/webp','image/apng','*/*;q=0.8', 'application/signed-exchange;v=b3;q=0.9'],
+'accept-encoding' => ['gzip', 'deflate', 'br'],
+'accept-language' => ['ru','ru-RU',';q=0.9','en-US',';q=0.8','en;q=0.7'],
+'cache-control' => 'no-cache',
+'cookie' => ['BITRIX_SM_FAVORITES_UID=57c05ad0dddd9dc88e30fa859382d6bd; waSessionId=9aa3e8dd-1278-eb81-89e4-58966966de4e; waUserId_251155369-nona_chistovik_-251155369-FAk-18229139804=85f0c3bb-ad33-957d-a5a7-1d5960047452; _ym_uid=1658578808791731516; BITRIX_SM_SALE_UID=b2019cd59f39ca67e90f193617fd6292; _fbp=fb.1.1658578850663.93381342; PHPSESSID=jhg1pqa1khnrg2c61rgr1s5tg2; _ym_visorc=w; _ym_isad=1; BITRIX_CONVERSION_CONTEXT_s1=%7B%22ID%22%3A2%2C%22EXPIRE%22%3A1659214740%2C%22UNIQUE%22%3A%5B%22conversion_visit_day%22%5D%7D; BITRIX_SM_GUEST_ID=1068562; BITRIX_SM_LAST_VISIT=30.07.2022+21%3A41%3A18; _ym_d=1659206479'],
+'pragma' => 'no-cache',
+'sec-ch-ua' => [".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"],
+'sec-ch-ua-mobile' => '?0',
+'sec-ch-ua-platform' => "Windows",
+'sec-fetch-dest' => 'document',
+'sec-fetch-mode' => 'navigate',
+'sec-fetch-site' => 'none',
+'sec-fetch-user' => '?1',
+'upgrade-insecure-requests' => 1,
+'user-agent' => ['Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36']
