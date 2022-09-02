@@ -10,4 +10,4 @@ PHP Парсер использует библиотеки Guzzle и DiDom. Со
 
 # dbparser
 Db Парсер использует библиотеку ReadBean. Зисывает данные из json файлов, созданных php-парсером, в базу данных OpenCart 3. Запускается через консоль
-php inedx.php
+php index.php
